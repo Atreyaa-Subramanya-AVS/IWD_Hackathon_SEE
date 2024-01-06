@@ -1,0 +1,69 @@
+a{
+    color: navy;
+    font-size: x-large;
+}
+a:hover
+{
+    color:blue;
+}
+p{
+    font-size: x-large;
+}
+h2
+{
+    text-decoration: underline;
+    font-size: xx-large;
+}
+#gmail,#call
+{
+    height:15px;
+    width:15px;
+}
+#photo
+{
+    height:200px;
+    margin-left: 50%;
+}
+#name
+{
+    text-align: center;
+    text-decoration: underline;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.nav
+{
+    height:100px;
+    width:100%;
+    /* background-color: red; */
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 0.1vw;
+}
+.nav-2
+{
+    display: flex;
+    /* background-color:blue; */
+    gap:4vw;
+}
+#Education,#Experience
+{
+    border-collapse:collapse;
+    vertical-align:middle;
+}
+body
+{
+    background-color: antiquewhite;
+}
+#photo
+{
+    border-radius: 20px 30px 40px 50px;
+    box-shadow:10px 10px 5px 2px gray;
+    border:3px solid red;
+}
+table
+{
+    font-size: x-large;
+}
